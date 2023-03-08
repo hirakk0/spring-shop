@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class LibraryApplication {
-
+	//Тут був я
 	public static void main(String[] args) {
 		SpringApplication.run(LibraryApplication.class, args);
 	}
