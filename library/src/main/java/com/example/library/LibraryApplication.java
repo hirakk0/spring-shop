@@ -8,6 +8,6 @@ public class LibraryApplication {
 	//Тут був я
 	public static void main(String[] args) {
 		SpringApplication.run(LibraryApplication.class, args);
+		System.out.println("Hello First SA!");
 	}
-
 }
